@@ -5,7 +5,7 @@
 
 **author**： zhengye
 
-for the semantic segmentation part, please refer to my teammate's git repo: https://github.com/zhengye1995/datafountain_siweituxin_autodriver_det
+for the semantic segmentation part, please refer to my teammate's git repo: https://github.com/SHERLOCKLS/datafountain_siweituxin_autodriver_seg
 
 ## 环境配置
 
