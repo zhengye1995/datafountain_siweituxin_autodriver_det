@@ -4,6 +4,9 @@
 **testA map**: 0.2
 
 **author**： zhengye
+
+for the semantic segmentation part, please refer to my teammate's git repo: https://github.com/zhengye1995/datafountain_siweituxin_autodriver_det
+
 ## 环境配置
 
 请按照[mmdetection](https://github.com/open-mmlab/mmdetection)说明进行安装配置
