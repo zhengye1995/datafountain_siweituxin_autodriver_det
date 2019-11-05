@@ -27,7 +27,7 @@ def main():
     with open(args.out, 'w') as f:
         for img in tqdm(glob('data/siweituxin/test_images/*.jpg')):
             result = inference_detector(model, img)
-            bbox_result, segm_result = result
+            bbox_result = result
             bboxes = np.vstack(bbox_result)
             labels = [
                 np.full(bbox.shape[0], i, dtype=np.int32)
