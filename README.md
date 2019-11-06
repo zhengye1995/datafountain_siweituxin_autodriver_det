@@ -1,11 +1,13 @@
 
 # 2019 第五届“四维图新”杯创新大赛 [自动驾驶视觉综合感知算法赛](https://www.datafountain.cn/competitions/366) detection baseline
 
-**testA map**: 0.2
+**testA object detection map**: 0.22
+
+**testA semantic segmentation miou**: 0.46
 
 **author**： zhengye
 
-for the semantic segmentation part, please refer to my teammate's git repo: https://github.com/SHERLOCKLS/datafountain_siweituxin_autodriver_seg
+for the **semantic segmentation** part, please refer to my teammate's git repo: https://github.com/SHERLOCKLS/datafountain_siweituxin_autodriver_seg
 
 ## 环境配置
 
